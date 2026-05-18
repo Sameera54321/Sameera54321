@@ -34,7 +34,7 @@
 
 </div>
 
-  ##💡 Strongly interested in:
+  ## 💡 Strongly interested in:
 
 ---
 

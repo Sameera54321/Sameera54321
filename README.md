@@ -90,7 +90,7 @@
 
 </div>
 
-</div>
+
 
 <details>
 <summary><b>📸 Click to view more certifications</b></summary>

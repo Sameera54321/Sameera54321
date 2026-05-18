@@ -15,8 +15,6 @@
 *"Designing, securing, and scaling enterprise networks across multi-cloud environments"*
 
 </div>
-
----
 ---
 
 <div align="center">

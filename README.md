@@ -15,8 +15,6 @@
 *"Designing, securing, and scaling enterprise networks across multi-cloud environments"*
 
 </div>
-
----
 ---
 # 📸 My Portfolio Gallery
 
@@ -25,7 +23,6 @@
   <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true" width="250"/>
   <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true" width="250"/>
 </div>
----
 
 ## 🚀 About Me
 

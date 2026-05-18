@@ -116,6 +116,7 @@
 ---
 
 ## 📚 **Current Learning Focus**
+
 <div align="center">
   
   
@@ -130,9 +131,10 @@
 
 ---
 
-<div align="center">
 
-  ## 🎯 **Career Vision**
+## 🎯 **Career Vision**
+
+<div align="center">
   
 > *"To become a distinguished **Multi-Cloud Network Architect** who designs self-healing, secure, and scalable network infrastructures that empower digital transformation across hybrid and multi-cloud environments."*
 
@@ -140,9 +142,8 @@
 
 ---
 
-<div align="center">
-
 ## 📊 **GitHub Analytics**
+<div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight&hide_border=true&background=0D1117"/>
   
@@ -152,8 +153,9 @@
 
 ---
 
+ ## 🤝 **Connect With Me**
 <div align="center">
-  ## 🤝 **Connect With Me**
+ 
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/sameerabuddhika/" target="_blank">

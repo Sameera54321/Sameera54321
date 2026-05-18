@@ -4,9 +4,11 @@
 
 
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Networking+%26+Infrastructure+Enthusiast;System+Administrator+in+the+making;Building+my+future+one+step+at+a+time" alt="Typing Animation" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=500&lines=BSc+IT+(Final+Year)+%7C+Networking+Enthusiast;CCNP+ENCOR+%7C+CCNA+Industrial;Network+Engineer+%26+IT+Infrastructure" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sameera54321&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </div>
 
 🚀 Aspiring Network Engineer | Future System Administrator
@@ -69,44 +71,63 @@
 
 ## 🏆 Achievements & Certifications
 
-🏅 Cisco Networking Learner  
-🏅 Credly Badge Earner  
-🏅 Active GitHub Developer  
-🏅 IT Infrastructure Enthusiast  
-🏅 Networking & Cloud Technology Learner  
+<div align="center">
+  
+`🏅 Cisco Networking Learner` • `🏅 Credly Badge Earner` • `🏅 Active GitHub Developer` • `🏅 IT Infrastructure Enthusiast` • `🏅 Networking & Cloud Technology Learner`
+
+</div> 
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Activity
 
-### 🌐 Networking
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/CCNA-Learning-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Routing%20%26%20Switching-1f1f1f?style=for-the-badge"/>
+<div align="center">
+  
+  <!-- Stats Cards - These are public services and should work without issues -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera54321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera54321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight&hide_border=true&background=0D1117" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera54321&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  
+</div>
 
 ---
 
-### 🖥 System Administration
+## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Administration-222222?style=for-the-badge"/>
-
----
-
-### ☁ Cloud & Security
-
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge"/>
+<!-- Networking -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=internetarchive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-1f1f1f?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Admin-222222?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-```diff
-+ Cisco CCNA
-+ Linux Server Administration
-+ Routing & Switching
-+ Network Security
-+ Cloud Infrastructure
-+ Enterprise Networking
-```
+<div align="center">
+  
+| Category | Topics |
+| :--- | :--- |
+| **Networking** | Cisco CCNA, Routing & Switching, Network Security |
+| **Administration** | Linux Server Administration, Enterprise Networking |
+| **Cloud** | Cloud Infrastructure |
+
+</div>
 
 ---
 

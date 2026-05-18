@@ -7,8 +7,27 @@
 🚀 Aspiring Network Engineer | Future System Administrator
 
 <p align="center">
-  <img src="image1.png" width="250"/>
-  <img src="image2.png" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247271507.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1746191756450.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1752997483810.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537202721.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537218718.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537248422.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340008.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340599.jpg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.27.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.28.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.33.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.49.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.50.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.51.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.54.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.55.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.57.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.58.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.59(1).jpeg?raw=true" width="250"/>
 </p>
 
 </div>
@@ -189,4 +208,3 @@
 <img src="https://komarev.com/ghpvc/?username=Sameera54321&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
-````

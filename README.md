@@ -192,7 +192,7 @@
 
 <div align="center">
   
-> *"Building my future in Networking, Infrastructure & System Administration."*
+> *"Building my future in Networking, Infrastructure & System Administration."* <
 
 </div>
 

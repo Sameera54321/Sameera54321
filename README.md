@@ -187,11 +187,17 @@
 
 ---
 
+<!-- Quote Section -->
 # ⚡ Quote
 
 <div align="center">
+  
+> *"Building my future in Networking, Infrastructure & System Administration."*
 
-### 💡 “Building my future in Networking, Infrastructure & System Administration.”
+<br>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Sameera54321&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 </div>
 

@@ -84,24 +84,13 @@
 
 ### 🖥 System Administration
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Administration-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Administration-222222?style=for-the-badge"/>
 
 ---
 
 ### ☁ Cloud & Security
 
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge"/>
-
----
-
-### 💻 Programming
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge"/>
 
 ---
 

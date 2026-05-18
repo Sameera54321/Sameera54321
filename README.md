@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 # 📸 My Portfolio Gallery
 
 <div align="center">

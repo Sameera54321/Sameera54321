@@ -16,12 +16,13 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247271507.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true" width="250"/>
-</div>
+<p align="center">
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/Express-collage(2)(1).jpg?raw=true"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/Express-collage(3)(1).jpg?raw=true"/>
+  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/Express-collage(5)(1).jpg?raw=true"/>
+</p>
 
+</div>
 ---
   ## 🚀 About Me
 

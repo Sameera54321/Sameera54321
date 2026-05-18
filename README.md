@@ -3,6 +3,8 @@
 
 # Hey 👋 I'm Sameera Buddhika
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Networking+Enthusiast;System+Administrator;Cloud+Engineer;Cyber+Security+Learner)
+
 <p align="center">
   <img src="image1.png" width="250"/>
   <img src="image2.png" width="250"/>

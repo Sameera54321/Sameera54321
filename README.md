@@ -39,8 +39,6 @@
 
 ---
 
-## 🌙 DARK PROFESSIONAL PROFILE
-
 <div align="center">
 
 ## 🌐 Networking | 🖥 System Administration | ☁ Cloud Computing

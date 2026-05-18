@@ -18,79 +18,116 @@
 
 ---
 
-## 📸 My Portfolio Gallery
+# 📸 My Portfolio Gallery
+
+<br>
 
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1743247271507.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247271507.jpg?raw=true" width="220" style="border-radius:15px;">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247271507.jpg?raw=true" width="320" style="border-radius:15px;">
 </a>
 
 <br><br>
 
+<table>
+<tr>
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true" width="180">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true" width="180">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1746191756450.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1746191756450.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1746191756450.jpg?raw=true" width="180">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1752997483810.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1752997483810.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1752997483810.jpg?raw=true" width="180">
 </a>
+</td>
+</tr>
 
-<br><br>
-
+<tr>
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1753537202721.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537202721.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537202721.jpg?raw=true" width="180">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1753537218718.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537218718.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537218718.jpg?raw=true" width="180">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1753537248422.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537248422.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537248422.jpg?raw=true" width="180">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340008.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340008.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340008.jpg?raw=true" width="180">
 </a>
+</td>
+</tr>
 
-<br><br>
-
+<tr>
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340599.jpg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340599.jpg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340599.jpg?raw=true" width="180">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.27.jpeg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.27.jpeg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.27.jpeg?raw=true" width="180">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.28.jpeg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.28.jpeg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.28.jpeg?raw=true" width="180">
 </a>
+</td>
 
-<br><br>
-
+<td>
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.33.jpeg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.33.jpeg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.33.jpeg?raw=true" width="180">
 </a>
+</td>
+</tr>
 
+<tr>
+<td colspan="2">
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.49.jpeg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.49.jpeg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.49.jpeg?raw=true" width="370">
 </a>
+</td>
 
+<td colspan="2">
 <a href="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.50.jpeg?raw=true">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.50.jpeg?raw=true" width="120">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.50.jpeg?raw=true" width="370">
 </a>
+</td>
+</tr>
 
-</div>
+</table>
 
+<br>
 
+### ➡️ Click Images To View Full Size
+
+---
 
 <details>
 <summary><b>📸 Click to view more certifications</b></summary>

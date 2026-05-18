@@ -1,220 +1,207 @@
 <div align="center">
+  
+# ✨ Sameera Buddhika ✨
 
-# Hey 👋, I'm Sameera Buddhika
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=500&lines=BSc+IT+(Final+Year)+%7C+Networking+Enthusiast;CCNP+ENCOR+%7C+CCNA+Industrial;Network+Engineer+%26+IT+Infrastructure" alt="Typing SVG" />
-</div>
-
-🚀 Aspiring Network Engineer | Future System Administrator
-
-<p align="center">
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247271507.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1746191756450.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1752997483810.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537202721.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537218718.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537248422.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340008.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340599.jpg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.27.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.28.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.33.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.49.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.50.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.51.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.54.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.55.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.57.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.58.jpeg?raw=true" width="250"/>
-  <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.59(1).jpeg?raw=true" width="250"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=600&color=00B4D8&center=true&vCenter=true&width=700&lines=BSc.IT+(Final+Year)+%7C+SIBA+Campus;CCNP+(ENCOR+350-401)+%7C+CCNA+Industrial;Microsoft+(AZ-700)+%7C+Oracle+AI+%26+Cloud;HASHX+Certified+(InfoSec%2C+Ethical+Hacking);AVIATRIX+Multi-cloud+%7C+OPSWAT+(ICIP)" alt="Typing SVG" />
 
 </div>
 
 ---
 
 <div align="center">
+  
+### 🎯 **Multi-Cloud Network Engineer | Infrastructure Architect | Cyber Security Enthusiast**
 
-## 🌐 Networking | 🖥 System Administration | ☁ Cloud Computing
+*"Designing, securing, and scaling enterprise networks across multi-cloud environments"*
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-🎓 IT Undergraduate passionate about modern infrastructure technologies and enterprise networking.
-
-💡 Strongly interested in:
-
-- Computer Networking  
-- Cisco Technologies  
-- Routing & Switching  
-- Linux Administration  
-- Cloud Infrastructure  
-- Cyber Security  
-- IT Support & Infrastructure  
-
-🎯 Career Goal:
-
-> Become a professional Network Engineer & System Administrator.
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="Right">
-  
-• `🏅 Cisco Networking Learner` • `🏅 Credly Badge Earner` • `🏅 Active GitHub Developer` 
-• `🏅 IT Infrastructure Enthusiast` • `🏅 Networking & Cloud Technology Learner`
-
-</div> 
-
----
-
-## 📊 GitHub Activity
+## 🖼️ **Certification Gallery**
 
 <div align="center">
   
-  <!-- Stats Cards - These are public services and should work without issues -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera54321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera54321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight&hide_border=true&background=0D1117" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera54321&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-  
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247271507.jpg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true" width="120" style="border-radius: 12px;"> |
+| <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1746191756450.jpg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1752997483810.jpg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537202721.jpg?raw=true" width="120" style="border-radius: 12px;"> |
+| <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537218718.jpg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1753537248422.jpg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340008.jpg?raw=true" width="120" style="border-radius: 12px;"> |
+| <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1761532340599.jpg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.27.jpeg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.28.jpeg?raw=true" width="120" style="border-radius: 12px;"> |
+| <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.33.jpeg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.49.jpeg?raw=true" width="120" style="border-radius: 12px;"> | <img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.50.jpeg?raw=true" width="120" style="border-radius: 12px;"> |
+
 </div>
 
----
-
-## 🚀 Tech Stack
-
-<!-- Networking -->
+<details>
+<summary><b>📸 Click to view more certifications</b></summary>
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Networking-0066CC?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Admin-239120?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure-00ADD8?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<br>
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.51.jpeg?raw=true" width="120" style="border-radius: 12px;">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.54.jpeg?raw=true" width="120" style="border-radius: 12px;">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.55.jpeg?raw=true" width="120" style="border-radius: 12px;">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.57.jpeg?raw=true" width="120" style="border-radius: 12px;">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.58.jpeg?raw=true" width="120" style="border-radius: 12px;">
+<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.59(1).jpeg?raw=true" width="120" style="border-radius: 12px;">
 </div>
+</details>
 
 ---
 
-## 📚 Currently Learning
+## 👨‍💻 **Professional Summary**
 
 <div align="center">
   
-| Category | Topics |
-| :--- | :--- |
-| **Networking** | Cisco CCNA, Routing & Switching, Network Security |
-| **Administration** | Linux Server Administration, Enterprise Networking |
-| **Cloud** | Cloud Infrastructure |
+> *"BSc.IT (Final Year) undergraduate at SIBA Campus with industry-recognized certifications including CCNP (ENCOR 350-401), CCNA Industrial, Microsoft (AZ-700), HASHX (InfoSec, Ethical Hacking, VARP, NCSF), AVIATRIX Multi-cloud, Oracle AI & Cloud, and OPSWAT (ICIP). Passionate about designing resilient network infrastructures, implementing zero-trust security frameworks, and architecting scalable multi-cloud solutions that bridge traditional networking with modern cloud-native paradigms."*
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 **Core Competencies**
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera54321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+| 🌐 **Network Engineering** | 🛡️ **Cyber Security** | ☁️ **Multi-Cloud** | 🖥️ **Infrastructure** |
+|:---:|:---:|:---:|:---:|
+| Enterprise Routing & Switching | Information Security | Azure (AZ-700) | Linux Administration |
+| Cisco DNA Center | Ethical Hacking | Oracle Cloud | Windows Server |
+| SD-WAN Architectures | Vulnerability Assessment | AVIATRIX Multi-cloud | Automation & Scripting |
+| Network Automation (VARP) | Risk Compliance (NCSF) | Cloud-native Networking | Infrastructure as Code |
+
+</div>
+
+---
+
+## 🏆 **Certifications & Credentials**
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|:---|:---|:---:|
+| **CCNP Enterprise (ENCOR 350-401)** | Cisco | 🏅 Active |
+| **CCNA Industrial** | Cisco | 🏅 Active |
+| **Microsoft Azure (AZ-700)** | Microsoft | 🏅 Active |
+| **HASHX InfoSec** | HASHX | 🏅 Active |
+| **Ethical Hacking** | HASHX | 🏅 Active |
+| **Vulnerability Assessment (VARP)** | HASHX | 🏅 Active |
+| **National Cyber Security (NCSF)** | HASHX | 🏅 Active |
+| **AVIATRIX Multi-cloud Network** | AVIATRIX | 🏅 Active |
+| **Oracle AI & Cloud** | Oracle | 🏅 Active |
+| **OPSWAT ICIP** | OPSWAT | 🏅 Active |
+
+</div>
+
+---
+
+## 🛠️ **Technical Arsenal**
+
+<div align="center">
+
+### **Networking**
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/SD_WAN-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/DNA_Center-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+### **Cloud Platforms**
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/AVIATRIX-00A8E8?style=for-the-badge&logo=aviatrix&logoColor=white"/>
+
+### **Security**
+<img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/InfoSec-FF0000?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-FF6B00?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPSWAT-5C2D91?style=for-the-badge&logo=opswat&logoColor=white"/>
+
+### **Operating Systems**
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+### **Automation & Tools**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</div>
+
+---
+
+## 📚 **Current Learning Focus**
+
+<div align="center">
   
+| Domain | Specific Topics |
+|:---|:---|
+| 🔷 **Advanced Networking** | CCNP Enterprise Deep Dive • SD-Access • Network Programmability |
+| 🔷 **Cloud Networking** | Azure Networking Advanced • Multi-cloud Connectivity • Cloud-native Firewalling |
+| 🔷 **Security** | Zero-Trust Architecture • NIST Framework • Cloud Security Posture Management |
+| 🔷 **Automation** | Python for Network Engineers • Ansible Automation Platform • Infrastructure as Code |
+
+</div>
+
+---
+
+## 🎯 **Career Vision**
+
+<div align="center">
+  
+> *"To become a distinguished **Multi-Cloud Network Architect** who designs self-healing, secure, and scalable network infrastructures that empower digital transformation across hybrid and multi-cloud environments."*
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera54321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera54321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
+  <br/><br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight&hide_border=true&background=0D1117"/>
   
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
+  <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera54321&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera54321&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&point=00B4D8&line=00B4D8"/>
   
 </div>
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/sameerabuddhika/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/Sameera54321" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<!-- Credly -->
-<a href="https://www.credly.com/users/sameera-buddhika" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
-</a>
-
-<!-- Linux Foundation -->
-<a href="https://openprofile.dev/profile/sameerabuddhika" target="_blank">
-  <img src="https://img.shields.io/badge/Linux%20Foundation-0033A0?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation">
-</a>
-
-<!-- Twitter/X -->
-<a href="https://x.com/SameeraB2002" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-</a>
-
-<!-- Threads -->
-<a href="https://www.threads.com/@same.y18" target="_blank">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/same.y18" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/share/1aJw2KJXMc/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-</div>
-
----
-
-<!-- Quote Section -->
-# ⚡ Quote
+## 🤝 **Connect With Me**
 
 <div align="center">
   
-> *"Building my future in Networking, Infrastructure & System Administration."* <
+<a href="https://www.linkedin.com/in/sameerabuddhika/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Sameera54321">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.credly.com/users/sameera-buddhika">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+<a href="https://x.com/SameeraB2002">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/same.y18">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/share/1aJw2KJXMc/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
+  
+### ⚡ *"Building the bridge between traditional networking and multi-cloud future"* ⚡
 
-<img src="https://komarev.com/ghpvc/?username=Sameera54321&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Sameera54321&label=Profile%20Views&color=00B4D8&style=for-the-badge"/>
 
 </div>

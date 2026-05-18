@@ -71,7 +71,7 @@
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
+<div align="Right">
   
 • `🏅 Cisco Networking Learner` • `🏅 Credly Badge Earner` • `🏅 Active GitHub Developer` 
 • `🏅 IT Infrastructure Enthusiast` • `🏅 Networking & Cloud Technology Learner`

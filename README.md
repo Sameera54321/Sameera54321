@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋 I'm Sameera Buddhika
+# Hey 👋, I'm Sameera Buddhika
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Networking+Enthusiast;System+Administrator;Cloud+Engineer;Cyber+Security+Learner)
 

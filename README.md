@@ -115,8 +115,9 @@
 
 ---
 
+## 📚 **Current Learning Focus**
 <div align="center">
-  ## 📚 **Current Learning Focus**
+  
   
 | Domain | Specific Topics |
 |:---|:---|

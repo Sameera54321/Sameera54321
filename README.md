@@ -100,20 +100,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <!-- Networking -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=internetarchive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-1f1f1f?style=for-the-badge" />
-  <br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Admin-222222?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0066CC?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Admin-239120?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-00ADD8?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 ---

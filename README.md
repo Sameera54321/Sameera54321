@@ -26,21 +26,6 @@
 
 ---
 
-<details>
-<summary><b>📸 Click to view more certifications</b></summary>
-<div align="center">
-<br>
-<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.51.jpeg?raw=true" width="120" style="border-radius: 12px;">
-<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.54.jpeg?raw=true" width="120" style="border-radius: 12px;">
-<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.55.jpeg?raw=true" width="120" style="border-radius: 12px;">
-<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.57.jpeg?raw=true" width="120" style="border-radius: 12px;">
-<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.58.jpeg?raw=true" width="120" style="border-radius: 12px;">
-<img src="https://github.com/Sameera54321/Sameera54321/blob/main/WhatsApp%20Image%202026-05-18%20at%2014.08.59(1).jpeg?raw=true" width="120" style="border-radius: 12px;">
-</div>
-</details>
-
----
-
 ## 🚀 About Me
 
 <div align="center">

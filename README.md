@@ -156,9 +156,6 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera54321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera54321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  
   <br/><br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight&hide_border=true&background=0D1117"/>

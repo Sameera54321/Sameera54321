@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Networking+%26+Infrastructure+Enthusiast;System+Administrator+in+the+making;Building+my+future+one+step+at+a+time" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Networking+%26+Infrastructure+Enthusiast;System+Administrator+in+the+making;Building+my+future+one+step+at+a+time" alt="Typing Animation" />
   
 </div>
 

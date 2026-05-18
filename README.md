@@ -15,19 +15,20 @@
 *"Designing, securing, and scaling enterprise networks across multi-cloud environments"*
 
 </div>
+
 ---
-# 📸 My Portfolio Gallery
+---
 
 <div align="center">
+  # 📸 My Portfolio Gallery
   <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247271507.jpg?raw=true" width="250"/>
   <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1743247305963.jpg?raw=true" width="250"/>
   <img src="https://github.com/Sameera54321/Sameera54321/blob/main/1745842920358.jpg?raw=true" width="250"/>
 </div>
 
-## 🚀 About Me
-
+---
 <div align="center">
-  
+  ## 🚀 About Me
 > *"BSc.IT (Final Year) undergraduate at SIBA Campus with industry-recognized certifications including CCNP (ENCOR 350-401), CCNA Industrial, Microsoft (AZ-700), HASHX (InfoSec, Ethical Hacking, VARP, NCSF), AVIATRIX Multi-cloud, Oracle AI & Cloud, and OPSWAT (ICIP). Passionate about designing resilient network infrastructures, implementing zero-trust security frameworks, and architecting scalable multi-cloud solutions that bridge traditional networking with modern cloud-native paradigms."*
 
 </div>
@@ -46,10 +47,8 @@
 
 ---
 
-## 🎯 **Core Competencies**
-
 <div align="center">
-  
+  ## 🎯 **Core Competencies**
 | 🌐 **Network Engineering** | 🛡️ **Cyber Security** | ☁️ **Multi-Cloud** | 🖥️ **Infrastructure** |
 |:---:|:---:|:---:|:---:|
 | Enterprise Routing & Switching | Information Security | Azure (AZ-700) | Linux Administration |
@@ -61,10 +60,10 @@
 
 ---
 
-## 🏆 **Certifications & Credentials**
-
 <div align="center">
 
+## 🏆 **Certifications & Credentials**
+ 
 | Certification | Issuer | Status |
 |:---|:---|:---:|
 | **CCNP Enterprise (ENCOR 350-401)** | Cisco | 🏅 Active |
@@ -82,9 +81,10 @@
 
 ---
 
-## 🛠️ **Technical Arsenal**
 
 <div align="center">
+
+## 🛠️ **Technical Arsenal**
 
 ### **Networking**
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -116,9 +116,8 @@
 
 ---
 
-## 📚 **Current Learning Focus**
-
 <div align="center">
+  ## 📚 **Current Learning Focus**
   
 | Domain | Specific Topics |
 |:---|:---|
@@ -131,9 +130,9 @@
 
 ---
 
-## 🎯 **Career Vision**
-
 <div align="center">
+
+  ## 🎯 **Career Vision**
   
 > *"To become a distinguished **Multi-Cloud Network Architect** who designs self-healing, secure, and scalable network infrastructures that empower digital transformation across hybrid and multi-cloud environments."*
 
@@ -141,9 +140,9 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
 <div align="center">
+
+## 📊 **GitHub Analytics**
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight&hide_border=true&background=0D1117"/>
   
@@ -153,11 +152,8 @@
 
 ---
 
-## 🤝 **Connect With Me**
-
 <div align="center">
-  
-<div align="center">
+  ## 🤝 **Connect With Me**
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/sameerabuddhika/" target="_blank">

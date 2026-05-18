@@ -73,7 +73,8 @@
 
 <div align="center">
   
-`🏅 Cisco Networking Learner` • `🏅 Credly Badge Earner` • `🏅 Active GitHub Developer` • `🏅 IT Infrastructure Enthusiast` • `🏅 Networking & Cloud Technology Learner`
+• `🏅 Cisco Networking Learner` • `🏅 Credly Badge Earner` • `🏅 Active GitHub Developer` 
+• `🏅 IT Infrastructure Enthusiast` • `🏅 Networking & Cloud Technology Learner`
 
 </div> 
 

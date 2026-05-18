@@ -110,34 +110,34 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera54321&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera54321&layout=compact&theme=tokyonight"/>
-
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera54321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera54321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight"/>
-
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight&hide_border=true&background=0D1117"/>
+  
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera54321&theme=tokyo-night"/>
-
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera54321&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  
 </div>
 
 ---

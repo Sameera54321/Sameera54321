@@ -144,13 +144,29 @@
 
 ---
 
-## 👨‍💻 **Professional Summary**
+## 🚀 About Me
 
 <div align="center">
   
 > *"BSc.IT (Final Year) undergraduate at SIBA Campus with industry-recognized certifications including CCNP (ENCOR 350-401), CCNA Industrial, Microsoft (AZ-700), HASHX (InfoSec, Ethical Hacking, VARP, NCSF), AVIATRIX Multi-cloud, Oracle AI & Cloud, and OPSWAT (ICIP). Passionate about designing resilient network infrastructures, implementing zero-trust security frameworks, and architecting scalable multi-cloud solutions that bridge traditional networking with modern cloud-native paradigms."*
 
 </div>
+
+---
+
+💡 Strongly interested in:
+
+- Computer Networking  
+- Cisco Technologies  
+- Routing & Switching  
+- Linux Administration  
+- Cloud Infrastructure  
+- Cyber Security  
+- IT Support & Infrastructure  
+
+🎯 Career Goal:
+
+> Become a professional Network Engineer & System Administrator.
 
 ---
 

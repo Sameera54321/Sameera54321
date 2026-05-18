@@ -3,7 +3,10 @@
 
 # Hey 👋 I'm Sameera Buddhika
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Networking+Enthusiast;Future+Network+Engineer;System+Administrator;Cloud+%26+Infrastructure+Learner;Cisco+CCNA+Learner" alt="Typing SVG" />
+<p align="center">
+  <img src="image1.png" width="250"/>
+  <img src="image2.png" width="250"/>
+</p>
 
 </div>
 

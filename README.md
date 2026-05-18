@@ -1,9 +1,10 @@
-````markdown id="kzq2qg"
 <div align="center">
 
 # Hey 👋 I'm Sameera Buddhika
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Networking+Enthusiast;System+Administrator;Cloud+Engineer;Cyber+Security+Learner)
+
+🚀 Aspiring Network Engineer | Future System Administrator
 
 <p align="center">
   <img src="image1.png" width="250"/>
@@ -13,6 +14,8 @@
 </div>
 
 ---
+
+## 🌙 DARK PROFESSIONAL PROFILE
 
 <div align="center">
 
@@ -28,13 +31,13 @@
 
 💡 Strongly interested in:
 
-- Computer Networking
-- Cisco Technologies
-- Routing & Switching
-- Linux Administration
-- Cloud Infrastructure
-- Cyber Security
-- IT Support & Infrastructure
+- Computer Networking  
+- Cisco Technologies  
+- Routing & Switching  
+- Linux Administration  
+- Cloud Infrastructure  
+- Cyber Security  
+- IT Support & Infrastructure  
 
 🎯 Career Goal:
 
@@ -42,26 +45,24 @@
 
 ---
 
-# 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 🏅 Cisco Networking Learner  
 🏅 Credly Badge Earner  
 🏅 Active GitHub Developer  
 🏅 IT Infrastructure Enthusiast  
-🏅 Networking & Cloud Technology Learner
+🏅 Networking & Cloud Technology Learner  
 
 ---
 
-# 🛠 Tech Stack
-
-<div align="center">
+## 🛠 Tech Stack
 
 ### 🌐 Networking
 
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/CCNA-Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Routing%20%26%20Switching-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Routing%20%26%20Switching-1f1f1f?style=for-the-badge"/>
 
 ---
 
@@ -69,14 +70,14 @@
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Administration-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Administration-222222?style=for-the-badge"/>
 
 ---
 
 ### ☁ Cloud & Security
 
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge"/>
 
 ---
 
@@ -86,11 +87,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-</div>
-
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 ```diff
 + Cisco CCNA

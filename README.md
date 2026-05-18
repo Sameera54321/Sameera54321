@@ -168,23 +168,46 @@
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/sameerabuddhika/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/sameerabuddhika/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://github.com/Sameera54321">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<!-- GitHub -->
+<a href="https://github.com/Sameera54321" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://www.credly.com/users/sameera-buddhika">
-  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+
+<!-- Credly -->
+<a href="https://www.credly.com/users/sameera-buddhika" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
 </a>
-<a href="https://x.com/SameeraB2002">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+
+<!-- Linux Foundation -->
+<a href="https://openprofile.dev/profile/sameerabuddhika" target="_blank">
+  <img src="https://img.shields.io/badge/Linux%20Foundation-0033A0?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation">
 </a>
-<a href="https://www.instagram.com/same.y18">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+<!-- Twitter/X -->
+<a href="https://x.com/SameeraB2002" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
 </a>
-<a href="https://www.facebook.com/share/1aJw2KJXMc/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
+<!-- Threads -->
+<a href="https://www.threads.com/@same.y18" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/same.y18" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/share/1aJw2KJXMc/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
 </div>

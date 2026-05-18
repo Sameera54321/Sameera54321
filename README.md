@@ -46,8 +46,10 @@
 
 ---
 
+## 🎯 **Core Competencies**
+
 <div align="center">
-  ## 🎯 **Core Competencies**
+  
 | 🌐 **Network Engineering** | 🛡️ **Cyber Security** | ☁️ **Multi-Cloud** | 🖥️ **Infrastructure** |
 |:---:|:---:|:---:|:---:|
 | Enterprise Routing & Switching | Information Security | Azure (AZ-700) | Linux Administration |
@@ -59,9 +61,9 @@
 
 ---
 
-<div align="center">
-
 ## 🏆 **Certifications & Credentials**
+
+<div align="center">
  
 | Certification | Issuer | Status |
 |:---|:---|:---:|
@@ -80,10 +82,9 @@
 
 ---
 
+## 🛠️ **Technical Arsenal**
 
 <div align="center">
-
-## 🛠️ **Technical Arsenal**
 
 ### **Networking**
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>

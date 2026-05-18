@@ -158,8 +158,6 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera54321&theme=tokyonight&hide_border=true&background=0D1117"/>
   
-  <br/><br/>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera54321&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&point=00B4D8&line=00B4D8"/>
   
 </div>

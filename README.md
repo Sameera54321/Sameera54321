@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=500&lines=BSc+IT+(Final+Year)+%7C+Networking+Enthusiast;CCNP+ENCOR+%7C+CCNA+Industrial;Network+Engineer+%26+IT+Infrastructure" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sameera54321&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</div>
-
 🚀 Aspiring Network Engineer | Future System Administrator
 
 <p align="center">

@@ -34,9 +34,9 @@
 
 </div>
 
-  ## 💡 Strongly interested in:
-
 ---
+
+  ## 💡 Strongly interested in:
 
 - Computer Networking  
 - Cisco Technologies  

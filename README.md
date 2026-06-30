@@ -72,7 +72,7 @@
 | Certification | Issuer | Status |
 |:---|:---|:---:|
 | **CCNP Enterprise (ENCOR 350-401)** | Cisco | 🏅 Active |
-| **CCNA Introduction To Computer** | Cisco | 🏅 Active |
+| **CCNA Introduction To Network** | Cisco | 🏅 Active |
 | **CCNA Industrial** | Cisco | 🏅 Active |
 | **Microsoft Azure (AZ-700)** | Microsoft | 🏅 Active |
 | **HASHX InfoSec** | HASHX | 🏅 Active |

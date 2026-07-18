@@ -73,6 +73,8 @@
 |:---|:---|:---:|
 | **CCNP Enterprise (ENCOR 350-401)** | Cisco | 🏅 Active |
 | **CCNA Introduction To Network** | Cisco | 🏅 Active |
+| **CCNA Switching, Routing, and Wireless Essentials** | Cisco | 🏅 Active |
+| **CCNA Enterprise Networking, Security, and Automation** | Cisco | 🏅 Active |
 | **CCNA Industrial** | Cisco | 🏅 Active |
 | **Microsoft Azure (AZ-700)** | Microsoft | 🏅 Active |
 | **HASHX InfoSec** | HASHX | 🏅 Active |

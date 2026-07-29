@@ -40,6 +40,17 @@
 
 ---
 
+### 👨‍💻 **About Me & What I Do**
+
+- 🛠️ Currently working as a **DevOps & Systems Administration Intern at REDA**, handling server deployments, network troubleshooting, and database architecture.
+- 🎓 Final Year **BSc (Hons) in Information Technology** Undergraduate at **SIBA Campus**.
+- 🌐 Deeply passionate about **Network Engineering, IT Infrastructure, and Multi-Cloud Architecture**.
+- 🚀 Actively driving digital transformation projects, including web/database portal hosting using **Apache, MySQL, and XAMPP**.
+- 📜 Certifications & Knowledge Base: **CCNP ENCOR, CCNA, Microsoft AZ-700, Aviatrix Multi-Cloud, and OPSWAT ICIP**.
+- 🔒 Strong interest in **Systems Security, Automation, and Cloud Infrastructure**.
+
+---
+
   ## 💡 Strongly interested in:
 
 - Computer Networking  

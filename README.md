@@ -2,17 +2,19 @@
   
 # Hey 👋, I'm Sameera Buddhika
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=600&color=00B4D8&center=true&vCenter=true&width=700&lines=BSc.IT+(Final+Year)+%7C+SIBA+Campus;CCNP+(ENCOR+350-401)+%7C+CCNA+Industrial;Microsoft+(AZ-700)+%7C+Oracle+AI+%26+Cloud;HASHX+Certified+(InfoSec%2C+Ethical+Hacking);AVIATRIX+Multi-cloud+%7C+OPSWAT+(ICIP)" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=00B4D8&center=true&vCenter=true&width=800&lines=DevOps+%26+SysAdmin+Intern+%40REDA;BSc.IT+(Final+Year)+%7C+SIBA+Campus;CCNP+(ENCOR+350-401)+%7C+CCNA+Industrial;Microsoft+(AZ-700)+%7C+Oracle+AI+%26+Cloud;HASHX+Certified+(InfoSec%2C+Ethical+Hacking);AVIATRIX+Multi-cloud+%7C+OPSWAT+(ICIP)" alt="Typing SVG" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 🎯 **Multi-Cloud Network Engineer | Infrastructure Architect | Cyber Security Enthusiast**
 
-*"Designing, securing, and scaling enterprise networks across multi-cloud environments"*
+### 🎯 **DevOps & SysAdmin Intern | Network Engineer | Infrastructure & Multi-Cloud Enthusiast**
+
+*"Building, securing, and automating enterprise systems & network infrastructure"*
 
 </div>
 

@@ -32,7 +32,7 @@
 
 <div align="center">
 
-> *"BSc.IT (Final Year) undergraduate at SIBA Campus with industry-recognized certifications including CCNP (ENCOR 350-401), CCNA Industrial, Microsoft (AZ-700), HASHX (InfoSec, Ethical Hacking, VARP, NCSF), AVIATRIX Multi-cloud, Oracle AI & Cloud, and OPSWAT (ICIP). Passionate about designing resilient network infrastructures, implementing zero-trust security frameworks, and architecting scalable multi-cloud solutions that bridge traditional networking with modern cloud-native paradigms."*
+> *"Currently working as a DevOps & Systems Administration Intern at Regional Economic Development Agency (REDA). BSc.IT (Final Year) undergraduate at SIBA Campus with industry-recognized certifications including CCNP (ENCOR 350-401), CCNA Industrial, Microsoft (AZ-700), HASHX (InfoSec, Ethical Hacking, VARP, NCSF), AVIATRIX Multi-cloud, Oracle AI & Cloud, and OPSWAT (ICIP). Passionate about designing resilient network infrastructures, implementing zero-trust security frameworks, and architecting scalable multi-cloud solutions that bridge traditional networking with modern cloud-native paradigms."*
 
 </div>
 

@@ -40,7 +40,7 @@
 
 ---
 
-### 👨‍💻 **About Me & What I Do**
+### 👨‍💻 **What I Do**
 
 - 🛠️ Currently working as a **DevOps & Systems Administration Intern at REDA**, handling server deployments, network troubleshooting, and database architecture.
 - 🎓 Final Year **BSc (Hons) in Information Technology** Undergraduate at **SIBA Campus**.
